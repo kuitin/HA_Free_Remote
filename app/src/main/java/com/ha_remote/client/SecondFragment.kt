@@ -1,4 +1,4 @@
-package com.example.ha_remote
+package com.ha_remote.client
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -10,6 +10,7 @@ import android.widget.TextView
 import androidx.navigation.fragment.findNavController
 import com.example.ha_remote.databinding.FragmentSecondBinding
 import androidx.navigation.fragment.navArgs
+import com.example.ha_remote.R
 
 /**
  * A simple [Fragment] subclass as the second destination in the navigation.

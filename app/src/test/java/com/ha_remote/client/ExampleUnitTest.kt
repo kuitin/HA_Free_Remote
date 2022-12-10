@@ -1,4 +1,4 @@
-package com.example.ha_remote
+package com.ha_remote.client
 
 import org.junit.Test
 

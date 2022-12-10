@@ -1,4 +1,4 @@
-package com.example.ha_remote
+package com.ha_remote.client
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

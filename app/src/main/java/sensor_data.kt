@@ -1,0 +1,2 @@
+class sensor_data {
+}

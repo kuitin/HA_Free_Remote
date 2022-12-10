@@ -1,4 +1,4 @@
-package com.example.ha_remote
+package com.ha_remote.client
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -9,6 +9,7 @@ import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import androidx.navigation.fragment.findNavController
+import com.example.ha_remote.R
 import com.example.ha_remote.databinding.FragmentFirstBinding
 
 /**
